@@ -1,0 +1,12 @@
+# Dependencies
+backend/node_modules/
+frontend/vite-project/node_modules/
+
+# Environment Variables
+backend/.env
+
+# Build files
+dist/
+
+# Logs
+*.log
